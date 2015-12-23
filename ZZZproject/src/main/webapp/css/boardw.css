@@ -1,0 +1,37 @@
+@CHARSET "UTF-8";
+
+html,body{
+	margin:0;
+	padding:0;
+}
+
+#wrapper {
+	background:silver;
+	height:30px
+}
+
+  #content {
+    background:aqua;
+    position:absolute;
+    left:250px;
+    top:100px;
+    width:100%;
+    float:left;
+  }
+  #sidebar {
+    background:teal; 
+    width:250px;
+    position:fixed;
+    top:100px;
+    float:left;
+  }
+  
+  #footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
