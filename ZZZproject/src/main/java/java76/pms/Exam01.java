@@ -15,5 +15,9 @@ public class Exam01 {
     
 
   }
+  
+  public void test(String abc) {
+    System.out.println("우와와와오아ㅗ아ㅗ아ㅗ아와와와와와와와왕");
+  }
 
 }
