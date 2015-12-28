@@ -17,7 +17,8 @@ public class Exam01 {
     System.out.println("여러분 하이요");
 
     System.out.println("wwwwwwwwwwwww");
-
+    System.out.println("wwwwwwwwwwwww");
+    
     System.out.println("234234");
     
 
