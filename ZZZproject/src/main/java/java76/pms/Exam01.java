@@ -12,7 +12,7 @@ public class Exam01 {
     System.out.println("d 오호라~");
     System.out.println("d 오호라~");
     System.out.println("d 오호라~");
-    
+    System.out.println("여러분 하이요");
 
   }
 
